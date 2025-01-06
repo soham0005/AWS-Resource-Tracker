@@ -1,6 +1,6 @@
 # AWS Resource Tracker
 
-## Project Overview
+## Overview
 
 The **AWS Resource Tracker** is a script-based solution for tracking and reporting various AWS services. It generates daily reports for specified AWS services, saves them to individual service folders, and compresses them into weekly archives. The project is designed to help AWS users monitor their resources and keep track of their usage and configurations.
 
