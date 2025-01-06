@@ -1,0 +1,9 @@
+####################
+# DATE: 2025-01-05 # Time: 23:13:27
+####################
+
+Cost Explorer Information (Last 7 days):
+------------------------------------------
+Start Date | End Date | Service | Blended Cost
+------------------------------------------
+Amazon | Simple | Storage | $ Service
